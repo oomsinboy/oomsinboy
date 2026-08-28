@@ -1,0 +1,41 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.52" stop-color="#111C35"/>
+      <stop offset="1" stop-color="#24133D"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="160" y1="20" x2="1080" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6EE7B7"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <filter id="blur" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="55"/>
+    </filter>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" stroke="#FFFFFF" stroke-opacity="0.055"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="360" rx="28" fill="url(#bg)"/>
+  <circle cx="1030" cy="58" r="170" fill="#8B5CF6" fill-opacity="0.22" filter="url(#blur)"/>
+  <circle cx="220" cy="320" r="170" fill="#10B981" fill-opacity="0.16" filter="url(#blur)"/>
+  <rect x="1" y="1" width="1278" height="358" rx="27" fill="url(#grid)"/>
+  <path d="M-30 292C186 228 240 347 451 276C648 210 737 262 908 198C1055 143 1134 196 1315 99" stroke="url(#glow)" stroke-opacity="0.5" stroke-width="2"/>
+  <path d="M-20 305C196 241 246 360 457 289C654 223 743 275 914 211C1061 156 1140 209 1321 112" stroke="url(#glow)" stroke-opacity="0.16" stroke-width="12"/>
+
+  <g opacity="0.8">
+    <circle cx="1110" cy="91" r="4" fill="#6EE7B7"/>
+    <circle cx="1150" cy="91" r="4" fill="#A78BFA"/>
+    <circle cx="1190" cy="91" r="4" fill="#F9A8D4"/>
+    <path d="M1110 112V157M1150 112V157M1190 112V157M1090 137H1210" stroke="#FFFFFF" stroke-opacity="0.18"/>
+  </g>
+
+  <text x="82" y="127" fill="#6EE7B7" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="18" letter-spacing="4">HELLO, I'M</text>
+  <text x="78" y="198" fill="white" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="64" font-weight="700" letter-spacing="-2">PAYUPAT / AOMSIN</text>
+  <text x="84" y="246" fill="#CBD5E1" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="21" letter-spacing="1">Frontend • Full-stack • Mobile developer from Thailand</text>
+  <text x="84" y="298" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15" letter-spacing="2">BUILDING CLEAN INTERFACES &amp; USEFUL DIGITAL EXPERIENCES</text>
+
+  <rect x="1070" y="264" width="126" height="42" rx="21" fill="#FFFFFF" fill-opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.18"/>
+  <text x="1095" y="291" fill="#E2E8F0" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" letter-spacing="1">BKK • TH</text>
+</svg>
