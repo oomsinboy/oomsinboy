@@ -4,13 +4,14 @@
 
 <br />
 
-<a href="https://github.com/oomsinboy"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1000&color=6EE7B7&center=true&vCenter=true&width=680&lines=Frontend+Developer;Full-stack+Developer;Mobile+Developer;Building+useful+digital+experiences" alt="Typing animation" /></a>
+<a href="https://github.com/oomsinboy"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=800&lines=SOFTWARE+DEVELOPER;FRONTEND+%2F+FULL-STACK+%2F+MOBILE;AI-ASSISTED+DEVELOPMENT;BUILDING+USEFUL+DIGITAL+EXPERIENCES;SYSTEM+STATUS%3A+ONLINE" alt="Typing animation" /></a>
 
 <br />
 
-<a href="https://github.com/oomsinboy"><img src="https://img.shields.io/badge/GitHub-oomsinboy-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/payupat"><img src="https://img.shields.io/badge/LinkedIn-Payupat_Sutasom-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://www.instagram.com/oomsinboy"><img src="https://img.shields.io/badge/Instagram-oomsinboy-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://github.com/oomsinboy"><img src="https://img.shields.io/badge/GITHUB-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=070B1A" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/payupat"><img src="https://img.shields.io/badge/LINKEDIN-00F5D4?style=for-the-badge&logo=linkedin&logoColor=070B1A&labelColor=070B1A" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/oomsinboy"><img src="https://img.shields.io/badge/INSTAGRAM-F472B6?style=for-the-badge&logo=instagram&logoColor=070B1A&labelColor=070B1A" alt="Instagram" /></a>
+<img src="https://img.shields.io/badge/AI-POWERED_WORKFLOW-F472B6?style=for-the-badge&labelColor=070B1A&color=F472B6" alt="AI powered workflow" />
 <img src="https://komarev.com/ghpvc/?username=oomsinboy&style=for-the-badge&color=6EE7B7&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
@@ -19,72 +20,46 @@
 
 ## `> whoami`
 
-Hello! I'm **Aomsin**, a developer from **Bangkok, Thailand**. I enjoy turning ideas into polished, practical products — from responsive web interfaces to mobile applications and backend services.
+Hello, I'm **Aomsin** — a software developer from **Bangkok, Thailand**. I build interfaces, applications and backend services, using AI as part of my workflow to explore ideas faster and turn them into useful digital experiences.
 
 ```ts
 const aomsin = {
   role: "Software Developer",
   location: "Bangkok, Thailand",
   workplace: "PLANETCLOUD CO., LTD.",
-  focus: ["Frontend", "Full-stack", "Mobile"],
-  interests: ["Clean UI", "Useful products", "Continuous learning"],
+  focus: ["Frontend", "Full-stack", "Mobile", "AI-assisted development"],
+  mindset: "Human creativity + AI acceleration",
 };
 ```
 
-## toolkit
+## `// TECH_MATRIX`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,nodejs,flutter,python,typescript,javascript,html,css,tailwind,firebase&perline=7" alt="Technology stack" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,nodejs,flutter,python,typescript,javascript,html,css,tailwind,firebase&perline=7&theme=dark" alt="Technology stack" />
 
 </div>
 
+<p align="center"><sub>React · Next.js · Vue · Node.js · Flutter · Python</sub></p>
+
 <div align="center">
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/AI_ASSISTED-00F5D4?style=flat-square&logo=openai&logoColor=070B1A&labelColor=070B1A" alt="AI assisted development" />
+<img src="https://img.shields.io/badge/IDEAS_TO_CODE-8B5CF6?style=flat-square&logo=githubcopilot&logoColor=white&labelColor=070B1A" alt="Ideas to code" />
+<img src="https://img.shields.io/badge/BUILD_%26_ITERATE-F472B6?style=flat-square&logo=rocket&logoColor=070B1A&labelColor=070B1A" alt="Build and iterate" />
 
 </div>
 
-## selected work
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/stamptitaree/ProjectFinal"><strong>ProjectFinal</strong></a><br />
-      <sub>Flutter application · Dart</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/oomsinboy/Line-OA-Nextjs"><strong>Line-OA-Nextjs</strong></a><br />
-      <sub>LINE OA project · TypeScript</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/oomsinboy/PillNotification"><strong>PillNotification</strong></a><br />
-      <sub>Mobile application · Dart</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/oomsinboy/ReactUI-test"><strong>ReactUI-test</strong></a><br />
-      <sub>Interface experiments · JavaScript</sub>
-    </td>
-  </tr>
-</table>
-
-## GitHub at a glance
+## `// GITHUB_TELEMETRY`
 
 <div align="center">
 
-<a href="https://github.com/oomsinboy"><img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=oomsinboy&show_icons=true&hide_border=true&theme=transparent&title_color=6EE7B7&icon_color=A78BFA&text_color=CBD5E1&bg_color=00000000" alt="Aomsin's GitHub stats" /></a>
-<a href="https://github.com/oomsinboy"><img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=oomsinboy&layout=compact&hide_border=true&theme=transparent&title_color=6EE7B7&text_color=CBD5E1&bg_color=00000000" alt="Top languages" /></a>
+<a href="https://github.com/oomsinboy"><img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=oomsinboy&show_icons=true&hide_border=true&theme=transparent&title_color=00F5D4&icon_color=F472B6&text_color=CBD5E1&bg_color=00000000" alt="Aomsin's GitHub stats" /></a>
+<a href="https://github.com/oomsinboy"><img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=oomsinboy&layout=compact&hide_border=true&theme=transparent&title_color=00F5D4&text_color=CBD5E1&bg_color=00000000" alt="Top languages" /></a>
 
 <br />
 
-<a href="https://github.com/oomsinboy"><img src="https://streak-stats.demolab.com?user=oomsinboy&theme=transparent&hide_border=true&ring=6EE7B7&fire=A78BFA&currStreakLabel=6EE7B7&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub streak" /></a>
+<a href="https://github.com/oomsinboy"><img src="https://streak-stats.demolab.com?user=oomsinboy&theme=transparent&hide_border=true&ring=00F5D4&fire=F472B6&currStreakLabel=00F5D4&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub streak" /></a>
 
 </div>
 
@@ -98,12 +73,17 @@ const aomsin = {
 
 <div align="center">
 
-### Let's build something useful.
+## `// ESTABLISH_CONNECTION`
 
-<a href="https://www.linkedin.com/in/payupat">Open to interesting ideas, collaborations, and good conversations →</a>
+<sub>Have an idea worth building? Send a signal.</sub>
+
+<br />
+<br />
+
+<a href="https://www.linkedin.com/in/payupat"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-00F5D4?style=for-the-badge&logo=linkedin&logoColor=070B1A&labelColor=070B1A" alt="Connect on LinkedIn" /></a>
 
 </div>
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:A78BFA&height=100&section=footer" width="100%" alt="Footer decoration" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,50:8B5CF6,100:F472B6&height=110&section=footer" width="100%" alt="Futuristic footer decoration" />
